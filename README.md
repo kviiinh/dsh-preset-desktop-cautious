@@ -24,7 +24,7 @@
 
 ## 使用
 
-1. 已安装到 `desktop` profile（`dsh.profile.bundles` 里的 `@local/dsh-preset-desktop-cautious`）。
+1. 已安装到 `desktop` profile（`dsh.profile.bundles` 里的 `dsh-preset-desktop-cautious`）。
 2. 在**新建会话**页面的预设选择器（或设置中的 Agent 预设位置）选择「DT谨慎创造模式」。
 3. 预设在**新会话**生效；已有会话沿用启动时绑定的预设版本，不会自动切换。
 4. 修改本目录的 `cordis.patch.yml` 或 `package.json` 后，需要重启 DSH 桌面应用才能生效
