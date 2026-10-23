@@ -1,7 +1,7 @@
-# DT 创造模式（DSH Agent 预设）
+# DTC 创造模式（DSH Agent 预设）
 
 以 DSH 自带的**创造模式**（`cordis` 预设）为基础派生的一个 Agent 预设，预设 id 为
-`desktop-cautious`，界面显示名为 **DT创造模式**。
+`desktop-cautious`，界面显示名为 **DTC创造模式**。
 
 ## 和「创造模式」的差别
 
@@ -27,7 +27,7 @@
 ## 使用
 
 1. 已安装到 `desktop` profile（`dsh.profile.bundles` 里的 `dsh-preset-desktop-cautious`）。
-2. 在**新建会话**页面的预设选择器（或设置中的 Agent 预设位置）选择「DT创造模式」。
+2. 在**新建会话**页面的预设选择器（或设置中的 Agent 预设位置）选择「DTC创造模式」。
 3. 预设在**新会话**生效；已有会话沿用启动时绑定的预设版本，不会自动切换。
 4. 修改本目录的 `cordis.patch.yml` 或 `package.json` 后，需要重启 DSH 桌面应用才能生效
    （侧边栏底部、设置按钮旁的「重启」按钮）。

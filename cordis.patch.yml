@@ -1,4 +1,4 @@
-# DT 创造模式（agent preset `desktop-cautious`）
+# DTC 创造模式（agent preset `desktop-cautious`）
 #
 # 基础：@deepseek-ai/dsh-web-app 自带的 cordis 预设（界面里的「创造模式」）。
 # 差异只有两处：
@@ -13,7 +13,7 @@
       name: '@deepseek-ai/dsh-agent-preset'
       config:
         id: desktop-cautious
-        name: DT创造模式
+        name: DTC创造模式
         description: 创造模式的桌面端谨慎变体：只动被点名的文件，联动改动先确认，全程用桌面端口径与组件化写法。
         order: 5
         plugins:
