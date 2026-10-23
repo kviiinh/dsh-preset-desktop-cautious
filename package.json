@@ -2,7 +2,7 @@
   "name": "dsh-preset-desktop-cautious",
   "version": "1.0.0",
   "private": true,
-  "description": "DT谨慎创造模式：以创造模式（cordis 预设）为基础，加入 DSH 桌面端操作口径、改动边界与组件化编码要求。",
+  "description": "DT创造模式：以创造模式（cordis 预设）为基础，加入 DSH 桌面端操作口径、改动边界与组件化编码要求。",
   "license": "MIT",
   "type": "module",
   "dsh": {
