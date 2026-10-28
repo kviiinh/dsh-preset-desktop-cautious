@@ -1,0 +1,13 @@
+{
+  "name": "dsh-preset-desktop-cautious",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DTC创造模式：以创造模式（cordis 预设）为基础，提示词全中文，加入风险操作与改动边界、平台与语言、组件化编码要求。",
+  "license": "MIT",
+  "type": "module",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
